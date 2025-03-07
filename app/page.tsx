@@ -390,7 +390,7 @@ export default function HomePage() {
           </div>
 
           <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
-            <p>&copy; 2023 KrishiSevak. All rights reserved. | Designed with ❤️ for Indian Farmers</p>
+            <p>&copy; 2025 KrishiSevak. All rights reserved. | Designed with ❤️ for Indian Farmers</p>
           </div>
         </div>
       </footer>
